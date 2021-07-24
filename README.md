@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvinjs&label=Profile%20views&color=0e75b6&style=flat-square" alt="parvinjs" /> </p>
 
-- 🌱 I’m currently learning **React,JavaScript from w3schools.com,codecademy.com,freecodecamp.org and youtube.com**
+- 🌱 I’m currently learning **React,JavaScript from w3schools.com,udemy.com,codecademy.com,freecodecamp.org and youtube.com**
 
 - 💬 Ask me about **HTML,CSS,JavaScript and React**
 
